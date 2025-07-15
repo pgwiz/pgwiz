@@ -17,7 +17,7 @@
 <p align="left" style="color: #c9d1d9; font-family: 'Arial', sans-serif;">
 I'm a Full-Stack Developer and AI Enthusiast from Nairobi, Kenya 🇰🇪, passionate about architecting the future of the web. I thrive on bridging the gap between complex back-end logic and intuitive, user-centric front-end design. My journey is fueled by a constant desire to learn and implement cutting-edge technologies.
 </p>
-<ul style="color: #c9d1d9; font-family: 'Arial', sans-serif; text-align: left;">
+<ul  align="left"; style="color: #c9d1d9; font-family: 'Arial', sans-serif;">
   <li>🚀 I specialize in building intelligent, scalable, and high-performance applications.</li>
   <li>🤖 My focus extends into the realms of <b>Artificial Intelligence</b> and <b>Data Analytics</b>, where I love to extract meaningful insights from data to drive decisions.</li>
   <li>💡 I believe in the power of collaboration and clean code to solve real-world problems.</li>
