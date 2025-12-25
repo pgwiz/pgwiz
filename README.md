@@ -114,14 +114,29 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgwiz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=0CF709&title_color=0CF709&text_color=c9d1d9&icon_color=00e1ff&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pgwiz&theme=transparent&border=0CF709&stroke=00e1ff&ring=0CF709&fire=00e1ff&currStreakLabel=0CF709&background=0d1117"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pgwiz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=0CF709&title_color=0CF709&text_color=c9d1d9&icon_color=00e1ff&bg_color=0d1117&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pgwiz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=0CF709&title_color=0CF709&text_color=c9d1d9&icon_color=00e1ff&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats"/>
+</picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgwiz&layout=compact&langs_count=10&theme=transparent&border_color=0CF709&title_color=0CF709&text_color=c9d1d9&bg_color=0d1117"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=pgwiz&theme=transparent&border=0CF709&stroke=00e1ff&ring=0CF709&fire=00e1ff&currStreakLabel=0CF709&background=0d1117&hide_border=false"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=pgwiz&theme=transparent&border=0CF709&stroke=00e1ff&ring=0CF709&fire=00e1ff&currStreakLabel=0CF709&background=0d1117&hide_border=false" alt="GitHub Streak"/>
+</picture>
 
-<br>
+<br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pgwiz&theme=tokyo-night&hide_border=false&border=0CF709&bg_color=0d1117&color=0CF709&line=00e1ff&point=0CF709)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pgwiz&layout=compact&langs_count=10&theme=transparent&border_color=0CF709&title_color=0CF709&text_color=c9d1d9&bg_color=0d1117&hide_border=false&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pgwiz&layout=compact&langs_count=10&theme=transparent&border_color=0CF709&title_color=0CF709&text_color=c9d1d9&bg_color=0d1117&hide_border=false&cache_seconds=1800" alt="Top Languages"/>
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pgwiz&theme=github-compact&bg_color=0d1117&color=0CF709&line=00e1ff&point=0CF709&area=true&hide_border=false&border_color=0CF709"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pgwiz&theme=github-compact&bg_color=0d1117&color=0CF709&line=00e1ff&point=0CF709&area=true&hide_border=false&border_color=0CF709" alt="Contribution Graph"/>
+</picture>
 
 </div>
 
