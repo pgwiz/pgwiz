@@ -118,6 +118,7 @@ const developer = {
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pgwiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0CF709&bg_color=0d1117&text_color=c9d1d9&icon_color=00e1ff&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgwiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0CF709&bg_color=0d1117&text_color=c9d1d9&icon_color=00e1ff&cache_seconds=1800" alt="GitHub Stats"/>
 </picture>
+![pgwiz Stats](https://github-canvas.vercel.app/api/card?type=stats&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pgwiz&layout=compact&langs_count=8&theme=tokyonight&border_color=0CF709&bg_color=0d1117&text_color=c9d1d9"/>
