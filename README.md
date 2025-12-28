@@ -166,15 +166,9 @@ const developer = {
 <br>
 
 ## [ CONTRIBUTION MATRIX ]
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/pgwiz/pgwiz/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+![pgwiz Stats](https://github-canvas-chi.vercel.app/api/card?type=contribution&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=720&height=250&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
 
 <br>
-
 ## [ ACTIVE PROJECTS ]
 
 <div align="center">
