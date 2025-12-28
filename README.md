@@ -112,18 +112,26 @@ const developer = {
 
 ## [ PERFORMANCE METRICS ]
 
+<br>
 <div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-canvas-chi.vercel.app/api/card?type=stats&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2" width="100%" height="300" alt="Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-canvas-chi.vercel.app/api/card?type=languages&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2" width="100%" height="300" alt="Top Lang"/>
+</td>
+</tr>
+</table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api?username=pgwiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0CF709&bg_color=0d1117&text_color=c9d1d9&icon_color=00e1ff&cache_seconds=1800](https://github-canvas.vercel.app/api/card?type=stats&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=pgwiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0CF709&bg_color=0d1117&text_color=c9d1d9&icon_color=00e1ff&cache_seconds=1800](https://github-canvas.vercel.app/api/card?type=stats&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)" alt="GitHub Stats"/>
-</picture>
+### <b>[ Stat x ]</b>
 
+</div>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pgwiz&layout=compact&langs_count=8&theme=tokyonight&border_color=0CF709&bg_color=0d1117&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgwiz&layout=compact&langs_count=8&theme=tokyonight&border_color=0CF709&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages"/>
-</picture>
+<div align="center">
 
 <br><br>
 
@@ -139,12 +147,25 @@ const developer = {
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pgwiz&theme=github-compact&bg_color=0d1117&color=0CF709&line=00e1ff&point=0CF709&area=true&hide_border=false&border_color=0CF709" alt="Contribution Graph"/>
 </picture>
 
-<br>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60%" height="300" alt="Coding Animation"/>
+## [ Dev Que ]
+<br>
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="300" alt="Coding Animation"/>
+</td>
+<td width="50%">
+<img src="https://github-canvas-chi.vercel.app/api/card?type=quote&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2" width="100%" height="300" alt="Coding Quote"/>
+</td>
+</tr>
+</table>
+
+### <b>[ Dev Que ]</b>
 
 </div>
-
 <br>
 
 ## [ CONTRIBUTION MATRIX ]
