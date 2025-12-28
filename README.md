@@ -133,14 +133,11 @@ const developer = {
 
 <div align="center">
 
-<br><br>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=pgwiz&theme=tokyonight&background=0d1117&border=0CF709&stroke=00e1ff"/>
-  <img src="https://streak-stats.demolab.com/?user=pgwiz&theme=tokyonight&background=0d1117&border=0CF709&stroke=00e1ff" alt="GitHub Streak"/>
-</picture>
+![pgwiz Stats](https://github-canvas-chi.vercel.app/api/card?type=streak&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pgwiz&theme=github-compact&bg_color=0d1117&color=0CF709&line=00e1ff&point=0CF709&area=true&hide_border=false&border_color=0CF709"/>
