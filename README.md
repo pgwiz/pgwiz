@@ -217,7 +217,7 @@ const developer = {
 
 <br>
 
-[![pgwiz langs]()](https://github-canvas-chi.vercel.app/api/card?type=languages&username=p&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=300&height=300&paddingTop=25&paddingRight=25&paddingBottom=25&paddingLeft=25&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
+![pgwiz Stats](https://github-canvas-chi.vercel.app/api/card?type=languages&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=300&height=300&paddingTop=25&paddingRight=25&paddingBottom=25&paddingLeft=25&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
 
 <br>
 
