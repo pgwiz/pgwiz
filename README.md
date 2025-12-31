@@ -233,8 +233,6 @@ const developer = {
 
 ![pgwiz Stats](https://github-canvas-chi.vercel.app/api/card?type=quote&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&paddingTop=25&paddingRight=25&paddingBottom=25&paddingLeft=25&animation=fadeIn&speed=normal&gradient=true&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
 
-<img src="https://github-canvas-chi.vercel.app/api/card?type=quote&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&paddingTop=25&paddingRight=25&paddingBottom=25&paddingLeft=25&animation=fadeIn&speed=normal&gradient=true&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2" alt="pgwiz Stats" />
-
 <br>
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="300" alt="Coding Animation"/>
