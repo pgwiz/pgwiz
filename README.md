@@ -226,7 +226,7 @@ const developer = {
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pgwiz&theme=github-compact&bg_color=0d1117&color=0CF709&line=00e1ff&point=0CF709&area=true&hide_border=false&border_color=0CF709" alt="Contribution Graph"/>
 </picture>
 
-
+</div>
 ## [ Dev Que ]
 <br>
 <div align="center">
