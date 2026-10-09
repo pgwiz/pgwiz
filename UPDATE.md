@@ -1,6 +1,6 @@
 # ⚡ pgwiz
 
-> *"Definition of done: what your PM thinks and what you know are different things."*
+> *"Code review is not a gatekeeping mechanism. It's a learning mechanism."*
 > — **Anonymous**
 
 ---
@@ -9,11 +9,11 @@
 
 | | |
 |---|---|
-| **Timestamp** | `2026-10-08 21:00:06 UTC` |
+| **Timestamp** | `2026-10-09 09:00:05 UTC` |
 | **Status** | ✅ Live |
 | **Trigger** | ☕ coffee |
-| **Message** | `chore: thinking in public.` |
-| **Quote #** | 281 / 900 |
+| **Message** | `shipping is a mindset.` |
+| **Quote #** | 282 / 900 |
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Date (UTC) | Status |
 |---|---|
-| 2026-10-08 | ✅ |
+| 2026-10-09 | ✅ |
 
 ---
 
