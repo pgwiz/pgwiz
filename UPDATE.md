@@ -1,6 +1,6 @@
 # ⚡ pgwiz
 
-> *"Write the README first. It clarifies your thinking."*
+> *"ADRs: architecture decision records. Because 'why did we do this?' deserves an answer."*
 > — **Anonymous**
 
 ---
@@ -9,11 +9,11 @@
 
 | | |
 |---|---|
-| **Timestamp** | `2026-10-23 21:00:06 UTC` |
+| **Timestamp** | `2026-10-24 09:00:06 UTC` |
 | **Status** | ✅ Live |
 | **Trigger** | ☕ coffee |
-| **Message** | `pgwiz: repo fed. moving on.` |
-| **Quote #** | 296 / 900 |
+| **Message** | `pgwiz: clocked in.` |
+| **Quote #** | 297 / 900 |
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Date (UTC) | Status |
 |---|---|
-| 2026-10-23 | ✅ |
+| 2026-10-24 | ✅ |
 
 ---
 
