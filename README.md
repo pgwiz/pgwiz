@@ -186,7 +186,7 @@ const developer = {
 <br>
 <div align="center">
 
-![pgwiz Stats](https://github-canvas-chi.vercel.app/api/card?type=quote&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&paddingTop=25&paddingRight=25&paddingBottom=25&paddingLeft=25&animation=fadeIn&speed=normal&gradient=true&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
+![pgwiz Stats](https://github-canvas.pgwiz.cloud/api/card?type=quote&username=pgwiz&theme=sunset&bg=%23090d16&primary=%233B82F6&secondary=%230EA5E9&text=%23e2e8f0&border=%233B82F6&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal)
 
 <br>
 
@@ -198,14 +198,17 @@ const developer = {
 <br>
 
 ## [ CONTRIBUTION MATRIX ]
-![pgwiz Stats](https://github-canvas-chi.vercel.app/api/card?type=contribution&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=720&height=250&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
+<div align="center">
+  
+![pgwiz Stats](https://github-canvas.pgwiz.cloud/api/card?type=activity&username=pgwiz&theme=github-dark&bg=%23090d16&primary=%233B82F6&secondary=%230EA5E9&text=%23e2e8f0&border=%233B82F6&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal)
 
+</div>
 <br>
 ## [ ACTIVE PROJECTS ]
 
 <div align="center">
 
-[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=pgwiz&repo=pgwiz.cloud&theme=transparent&border_color=0CF709&title_color=0CF709&text_color=c9d1d9&icon_color=00e1ff&bg_color=0d1117)](https://github.com/pgwiz/)
+![pgwiz Stats](https://github-canvas.pgwiz.cloud/api/pin?username=pgwiz&repo=PGWIZ-MD&theme=github-dark&bg=%23090d16&primary=%233B82F6&secondary=%230EA5E9&text=%23e2e8f0&border=%233B82F6&radius=12&showBorder=true&width=400&height=120&animation=fadeIn&speed=normal)
 
 **Main Repository:** [pgwiz.cloud](https://pgwiz.cloud) - Central hub for all projects and documentation
 
