@@ -52,21 +52,58 @@ const developer = {
 
 <br>
 
-## [ CORE COMPETENCIES ]
+## CORE COMPETENCIES
 
-🎯 **Engineering Excellence** • Crafting robust, maintainable codebases that scale from MVP to enterprise
-  
-🤖 **AI Integration** • Implementing machine learning models in production environments with real business impact
-  
-☁️ **Cloud Architecture** • Designing distributed systems that handle millions of requests with optimal performance
-  
-📊 **Data Intelligence** • Extracting actionable insights from complex datasets to drive strategic decisions
-  
-🔄 **DevOps Culture** • Automating deployment pipelines and infrastructure for continuous delivery
-  
-🌐 **Full-Stack Mastery** • Seamlessly bridging frontend UX with backend logic and database optimization
-
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pgwiz?tab=repositories">
+        <img src="https://img.shields.io/badge/ENGINEERING%20EXCELLENCE-090D16?style=for-the-badge&logo=codeforces&logoColor=3B82F6" alt="Engineering Excellence" />
+      </a>
+      <br /><br />
+      <b>Systems & Architecture</b> &bull; Crafting robust, maintainable codebases that scale from MVP to enterprise.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pgwiz?tab=repositories">
+        <img src="https://img.shields.io/badge/AI%20INTEGRATION-090D16?style=for-the-badge&logo=huggingface&logoColor=3B82F6" alt="AI Integration" />
+      </a>
+      <br /><br />
+      <b>Intelligent Systems</b> &bull; Implementing machine learning models in production environments with real business impact.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pgwiz?tab=repositories">
+        <img src="https://img.shields.io/badge/CLOUD%20ARCHITECTURE-090D16?style=for-the-badge&logo=googlecloud&logoColor=3B82F6" alt="Cloud Architecture" />
+      </a>
+      <br /><br />
+      <b>Distributed Systems</b> &bull; Designing platforms that handle millions of requests with optimal resilience and throughput.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pgwiz?tab=repositories">
+        <img src="https://img.shields.io/badge/DATA%20INTELLIGENCE-090D16?style=for-the-badge&logo=postgresql&logoColor=3B82F6" alt="Data Intelligence" />
+      </a>
+      <br /><br />
+      <b>Analytics & Pipelines</b> &bull; Extracting actionable insights from complex datasets to drive strategic decisions.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pgwiz?tab=repositories">
+        <img src="https://img.shields.io/badge/DEVOPS%20CULTURE-090D16?style=for-the-badge&logo=docker&logoColor=3B82F6" alt="DevOps Culture" />
+      </a>
+      <br /><br />
+      <b>Continuous Delivery</b> &bull; Automating deployment pipelines and infrastructure for high-velocity releases.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/pgwiz?tab=repositories">
+        <img src="https://img.shields.io/badge/FULL--STACK%20MASTERY-090D16?style=for-the-badge&logo=typescript&logoColor=3B82F6" alt="Full-Stack Mastery" />
+      </a>
+      <br /><br />
+      <b>End-to-End Execution</b> &bull; Seamlessly bridging frontend UX with backend logic and database optimization.
+    </td>
+  </tr>
+</table>
 
 ## [ TECHNOLOGY MATRIX ]
 
@@ -75,42 +112,31 @@ const developer = {
 [Language stack](https://github-canvas.pgwiz.cloud/api/card?type=skills&skills=PHP,Python,JavaScript,TypeScript,C%23,Bash,Rust,Linux,Nginx,MySQL,MariaDB,Laravel,FastAPI,PostgreSQL,MongoDB,Redis,Docker,Node.js,Express,React,Django,Flutter,Android,Firebase,GitHub%20Actions,DigitalOcean,JWT,OAuth,SSL%2FTLS,Git,GitHub,Postman,VS%20Code,Hugging%20Face,LangChain,AWS,Azure,Google%20Cloud,Oracle%20Cloud&layout=icons&theme=neon)
 
 
-<img src="https://github-canvas.pgwiz.cloud/api/card?type=skills&skills=PHP,Python,JavaScript,TypeScript,C%23,Bash,Rust,Linux,Nginx,MySQL,MariaDB,Laravel,FastAPI,PostgreSQL,MongoDB,Redis,Docker,Node.js,Express,React,Django,Flutter,Android,Firebase,GitHub%20Actions,DigitalOcean,JWT,OAuth,SSL%2FTLS,Git,GitHub,Postman,VS%20Code,Hugging%20Face,LangChain,AWS,Azure,Google%20Cloud,Oracle%20Cloud&layout=icons&theme=neon"/>
+<div align="center">
+  <img src="https://github-canvas.pgwiz.cloud/api/card?type=skills&skills=PHP,Python,JavaScript,TypeScript,C%23,Bash,Rust,Linux,Nginx,MySQL,MariaDB,Laravel,FastAPI,PostgreSQL,MongoDB,Redis,Docker,Node.js,Express,React,Django,Flutter,Android,Firebase,GitHub%20Actions,DigitalOcean,JWT,OAuth,SSL%2FTLS,Git,GitHub,Postman,VS%20Code,Hugging%20Face,LangChain,AWS,Azure,Google%20Cloud,Oracle%20Cloud&layout=matrix&username=pgwiz&theme=electric-blue&bg=transparent&primary=%233B82F6&secondary=%2306B6D4&border=%233B82F6&radius=3&strokeWidth=0" alt="pgwiz Tech Matrix" width="100%" />
+</div>
 
 </div>
 
 
 ## [ PERFORMANCE METRICS ]
 
+</div>
 <br>
+
 <div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-canvas-chi.vercel.app/api/card?type=stats&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2" width="100%" height="300" alt="Stats"/>
-</td>
-<td width="50%">
+
+<br>
 <img src="https://github-canvas-chi.vercel.app/api/card?type=streak&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2" width="100%" height="300" alt="Streak"/>
-</td>
-</tr>
-</table>
 
-### <b>[ Stat x ]</b>
 
-</div>
-<br>
-
-<div align="center">
-
-<br>
-
-![pgwiz Stats](https://github-canvas-chi.vercel.app/api/card?type=languages&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=300&height=300&paddingTop=25&paddingRight=25&paddingBottom=25&paddingLeft=25&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2)
 
 <br>
 
 </div>
+
 ## [ Dev Que ]
+
 <br>
 <div align="center">
 
