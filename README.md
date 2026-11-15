@@ -66,12 +66,18 @@ const system = await architect("Peter Brian Gwadenya")
 
 ## [ CONNECT & COLLABORATE ]
 
-<div align="center">
-  <a href="https://pgwiz.cloud"><img src="https://img.shields.io/badge/PORTFOLIO-pgwiz.cloud-0CF709?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://contact.pgwiz.cloud"><img src="https://img.shields.io/badge/CONNECT-contact.pgwiz.cloud-00e1ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Connect" /></a>&nbsp;
-  <a href="https://linkedin.com/in/pgwiz"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://twitter.com/pgwiz"><img src="https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</div>
+<table align="center" border="0">
+<tr>
+<td align="center" valign="middle">
+<img src="assets/connect.gif" width="140" height="140" alt="Connect & Collaborate"/>
+</td>
+<td align="center" valign="middle">
+<a href="https://contact.pgwiz.cloud"><img src="https://img.shields.io/badge/CONNECT-contact.pgwiz.cloud-00e1ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Connect" /></a><br /><br />
+<a href="https://pgwiz.cloud"><img src="https://img.shields.io/badge/PORTFOLIO-pgwiz.cloud-0CF709?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a><br /><br />
+<a href="https://linkedin.com/in/pgwiz"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</td>
+</tr>
+</table>
 
 <br>
 
