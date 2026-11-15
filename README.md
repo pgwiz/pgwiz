@@ -10,11 +10,18 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/pgwiz"><img src="https://komarev.com/ghpvc/?username=pgwiz&label=PROFILE+VIEWS&color=0CF709&style=for-the-badge" alt="Profile Views" /></a>&nbsp;
-  <a href="https://github.com/pgwiz?tab=followers"><img src="https://img.shields.io/github/followers/pgwiz?label=FOLLOWERS&style=for-the-badge&color=00e1ff&logo=github" alt="Followers" /></a>&nbsp;
-  <a href="https://github.com/pgwiz"><img src="https://img.shields.io/github/stars/pgwiz?label=TOTAL+STARS&style=for-the-badge&color=0CF709&logo=github" alt="Total Stars" /></a>
-</div>
+<table align="center" border="0">
+<tr>
+<td align="center" valign="middle">
+<a href="https://github.com/pgwiz"><img src="https://komarev.com/ghpvc/?username=pgwiz&label=PROFILE+VIEWS&color=0CF709&style=for-the-badge" alt="Profile Views" /></a><br /><br />
+<a href="https://github.com/pgwiz?tab=followers"><img src="https://img.shields.io/github/followers/pgwiz?label=FOLLOWERS&style=for-the-badge&color=00e1ff&logo=github" alt="Followers" /></a><br /><br />
+<a href="https://github.com/pgwiz"><img src="https://img.shields.io/github/stars/pgwiz?label=TOTAL+STARS&style=for-the-badge&color=0CF709&logo=github" alt="Total Stars" /></a>
+</td>
+<td align="center" valign="middle">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="160" height="160" alt="Coding Cat"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,27 +29,14 @@
 
 ## [ SYSTEM ARCHITECTURE ]
 
-<table align="center" width="100%" border="0">
-<tr>
-<td width="65%" valign="middle">
-
 ```typescript
 // Assembling production-grade systems, line by line
 const system = await architect("Peter Brian Gwadenya")
-  .foundation(["Linux", "Docker", "Multi-Cloud Consoles"])
-  .engine(["Rust", "PHP / Modern LAMP", "TypeScript"])
+  .foundation({ os: "Linux", containers: "Docker", cloud: "Multi-Cloud Consoles" })
+  .engine({ systems: "Rust", web: "PHP / Modern LAMP", logic: "TypeScript" })
   .mindset("The best error message is the one that never shows up")
   .deploy({ resilience: "zero-downtime", scalability: "production-grade" });
 ```
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" height="200" alt="Coding Cat"/>
-
-</td>
-</tr>
-</table>
 
 <br>
 
