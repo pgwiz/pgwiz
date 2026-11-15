@@ -3,167 +3,68 @@
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0CF709&center=true&vCenter=true&width=800&lines=Building+the+Future+of+Intelligent+Systems;Architecting+Scalable+Cloud+Solutions;Transforming+Ideas+into+Production+Code;Machine+Learning+%7C+Full-Stack+%7C+DevOps)](https://github.com/pgwiz)
-
+  <a href="https://github.com/pgwiz">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0CF709&center=true&vCenter=true&width=800&lines=Building+the+Future+of+Intelligent+Systems;Architecting+Scalable+Cloud+Solutions;Transforming+Ideas+into+Production+Code;Machine+Learning+%7C+Full-Stack+%7C+DevOps" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=pgwiz&label=PROFILE+VIEWS&color=0CF709&style=for-the-badge)](https://github.com/pgwiz)
-[![Followers](https://img.shields.io/github/followers/pgwiz?label=FOLLOWERS&style=for-the-badge&color=00e1ff&logo=github)](https://github.com/pgwiz?tab=followers)
-[![Stars](https://img.shields.io/github/stars/pgwiz?label=TOTAL+STARS&style=for-the-badge&color=0CF709&logo=github)](https://github.com/pgwiz)
-
+  <a href="https://github.com/pgwiz"><img src="https://komarev.com/ghpvc/?username=pgwiz&label=PROFILE+VIEWS&color=0CF709&style=for-the-badge" alt="Profile Views" /></a>&nbsp;
+  <a href="https://github.com/pgwiz?tab=followers"><img src="https://img.shields.io/github/followers/pgwiz?label=FOLLOWERS&style=for-the-badge&color=00e1ff&logo=github" alt="Followers" /></a>&nbsp;
+  <a href="https://github.com/pgwiz"><img src="https://img.shields.io/github/stars/pgwiz?label=TOTAL+STARS&style=for-the-badge&color=0CF709&logo=github" alt="Total Stars" /></a>
 </div>
 
 ---
 
 <br>
 
-## [ SYSTEM OVERVIEW ]
+## [ SYSTEM ARCHITECTURE ]
 
-```javascript
-const developer = {
-  name: "Peter Brian Gwadenya",
-  location: "Nairobi, Kenya 🇰🇪",
-  role: "Full-Stack Developer & AI Systems Architect",
-  mainRepository: "https://pgwiz.cloud",
-  contact: "contact@pgwiz.cloud",
-  
-  expertise: [
-    "Enterprise Application Development",
-    "Machine Learning & AI Integration",
-    "Cloud-Native Architecture",
-    "Real-Time Data Processing",
-    "Distributed Systems Design"
-  ],
-  
-  currentFocus: {
-    primary: "Building intelligent, production-grade applications",
-    secondary: "MLOps & Edge Computing",
-    exploring: "Quantum Computing Algorithms"
-  },
-  
-  philosophy: "Clean code, scalable architecture, measurable impact"
-};
+<table align="center" width="100%" border="0">
+<tr>
+<td width="65%" valign="middle">
+
+```typescript
+// Assembling production-grade systems, line by line
+const system = await architect("Peter Brian Gwadenya")
+  .foundation(["Linux", "Docker", "Multi-Cloud Consoles"])
+  .engine(["Rust", "PHP / Modern LAMP", "TypeScript"])
+  .mindset("The best error message is the one that never shows up")
+  .deploy({ resilience: "zero-downtime", scalability: "production-grade" });
 ```
 
-<br>
+</td>
+<td width="35%" align="center" valign="middle">
 
-## CORE COMPETENCIES
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" height="200" alt="Coding Cat"/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pgwiz?tab=repositories">
-        <img src="https://img.shields.io/badge/ENGINEERING%20EXCELLENCE-090D16?style=for-the-badge&logo=codeforces&logoColor=3B82F6" alt="Engineering Excellence" />
-      </a>
-      <br /><br />
-      <b>Systems & Architecture</b> &bull; Crafting robust, maintainable codebases that scale from MVP to enterprise.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pgwiz?tab=repositories">
-        <img src="https://img.shields.io/badge/AI%20INTEGRATION-090D16?style=for-the-badge&logo=huggingface&logoColor=3B82F6" alt="AI Integration" />
-      </a>
-      <br /><br />
-      <b>Intelligent Systems</b> &bull; Implementing machine learning models in production environments with real business impact.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pgwiz?tab=repositories">
-        <img src="https://img.shields.io/badge/CLOUD%20ARCHITECTURE-090D16?style=for-the-badge&logo=googlecloud&logoColor=3B82F6" alt="Cloud Architecture" />
-      </a>
-      <br /><br />
-      <b>Distributed Systems</b> &bull; Designing platforms that handle millions of requests with optimal resilience and throughput.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pgwiz?tab=repositories">
-        <img src="https://img.shields.io/badge/DATA%20INTELLIGENCE-090D16?style=for-the-badge&logo=postgresql&logoColor=3B82F6" alt="Data Intelligence" />
-      </a>
-      <br /><br />
-      <b>Analytics & Pipelines</b> &bull; Extracting actionable insights from complex datasets to drive strategic decisions.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pgwiz?tab=repositories">
-        <img src="https://img.shields.io/badge/DEVOPS%20CULTURE-090D16?style=for-the-badge&logo=docker&logoColor=3B82F6" alt="DevOps Culture" />
-      </a>
-      <br /><br />
-      <b>Continuous Delivery</b> &bull; Automating deployment pipelines and infrastructure for high-velocity releases.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/pgwiz?tab=repositories">
-        <img src="https://img.shields.io/badge/FULL--STACK%20MASTERY-090D16?style=for-the-badge&logo=typescript&logoColor=3B82F6" alt="Full-Stack Mastery" />
-      </a>
-      <br /><br />
-      <b>End-to-End Execution</b> &bull; Seamlessly bridging frontend UX with backend logic and database optimization.
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-## [ TECHNOLOGY MATRIX ]
+<br>
 
 <div align="center">
+  <img src="assets/tech-stack.svg" alt="Core Technology" />
+</div>
 
-[Language stack](https://github-canvas.pgwiz.cloud/api/card?type=skills&skills=PHP,Python,JavaScript,TypeScript,C%23,Bash,Rust,Linux,Nginx,MySQL,MariaDB,Laravel,FastAPI,PostgreSQL,MongoDB,Redis,Docker,Node.js,Express,React,Django,Flutter,Android,Firebase,GitHub%20Actions,DigitalOcean,JWT,OAuth,SSL%2FTLS,Git,GitHub,Postman,VS%20Code,Hugging%20Face,LangChain,AWS,Azure,Google%20Cloud,Oracle%20Cloud&layout=icons&theme=neon)
-
+<br>
 
 <div align="center">
-  <img src="https://github-canvas.pgwiz.cloud/api/card?type=skills&skills=PHP,Python,JavaScript,TypeScript,C%23,Bash,Rust,Linux,Nginx,MySQL,MariaDB,Laravel,FastAPI,PostgreSQL,MongoDB,Redis,Docker,Node.js,Express,React,Django,Flutter,Android,Firebase,GitHub%20Actions,DigitalOcean,JWT,OAuth,SSL%2FTLS,Git,GitHub,Postman,VS%20Code,Hugging%20Face,LangChain,AWS,Azure,Google%20Cloud,Oracle%20Cloud&layout=matrix&username=pgwiz&theme=electric-blue&bg=transparent&primary=%233B82F6&secondary=%2306B6D4&border=%233B82F6&radius=3&strokeWidth=0" alt="pgwiz Tech Matrix" width="100%" />
+  <img src="assets/developer-wisdom.svg" alt="Developer Wisdom" />
 </div>
 
-</div>
-
+<br>
 
 ## [ PERFORMANCE METRICS ]
-
-</div>
-<br>
 
 <div align="center">
 
 <br>
 <img src="https://github-canvas-chi.vercel.app/api/card?type=streak&username=pgwiz&theme=neon&bg=%230d1117&primary=%230CF709&secondary=%2300e1ff&text=%23c9d1d9&border=%230CF709&radius=12&showBorder=true&width=495&height=195&animation=fadeIn&speed=normal&gradient=false&gradientType=linear&gradientAngle=135&gradientStart=%23667eea&gradientEnd=%23764ba2" width="100%" height="300" alt="Streak"/>
-
-
-
 <br>
-
-</div>
-
-## [ Dev Que ]
-
-<br>
-<div align="center">
-
-![pgwiz Stats](https://github-canvas.pgwiz.cloud/api/card?type=quote&username=pgwiz&theme=sunset&bg=transparent&radius=3&strokeWidth=0.5)
-
-<br>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="300" alt="Coding Animation"/>
-
-
-</div>
-<br>
-
-## [ CONTRIBUTION MATRIX ]
-<div align="center">
-  
-![pgwiz Stats](https://github-canvas.pgwiz.cloud/api/card?type=contribution&username=pgwiz&theme=sunset&bg=transparent&radius=3&strokeWidth=0.5)
-
-</div>
-<br>
-## [ ACTIVE PROJECTS ]
-
-<div align="center">
-
-![pgwiz Stats](https://github-canvas.pgwiz.cloud/api/pin?username=pgwiz&repo=PGWIZ-MD&theme=github-dark&bg=%23090d16&primary=%233B82F6&secondary=%230EA5E9&text=%23e2e8f0&border=%233B82F6&radius=12&showBorder=true&width=400&height=120&animation=fadeIn&speed=normal)
-
-**Main Repository:** [pgwiz.cloud](https://pgwiz.cloud) - Central hub for all projects and documentation
 
 </div>
 
@@ -172,34 +73,11 @@ const developer = {
 ## [ CONNECT & COLLABORATE ]
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-pgwiz.cloud-0CF709?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pgwiz.cloud)
-[![Email](https://img.shields.io/badge/CONTACT-contact@pgwiz.cloud-00e1ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pgwiz.cloud)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pgwiz)
-[![Twitter](https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pgwiz)
-
+  <a href="https://pgwiz.cloud"><img src="https://img.shields.io/badge/PORTFOLIO-pgwiz.cloud-0CF709?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://contact.pgwiz.cloud"><img src="https://img.shields.io/badge/CONNECT-contact.pgwiz.cloud-00e1ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Connect" /></a>&nbsp;
+  <a href="https://linkedin.com/in/pgwiz"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://twitter.com/pgwiz"><img src="https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </div>
-
-<br>
-
-## [ COLLABORATION PHILOSOPHY ]
-
-```python
-def build_the_future():
-    principles = {
-        "code_quality": "Every line matters - write for humans, optimize for machines",
-        "innovation": "Push boundaries, but ship working products",
-        "team_work": "Great code is written together, not alone",
-        "continuous_learning": "Yesterday's expert is tomorrow's student",
-        "impact": "Technology serves people, not the other way around"
-    }
-    
-    return {
-        "open_to": ["Exciting projects", "Technical challenges", "Team collaboration"],
-        "seeking": ["Innovation-driven teams", "Complex problem spaces", "Growth opportunities"],
-        "offering": ["Clean architecture", "Production-ready code", "Mentorship"]
-    }
-```
 
 <br>
 
@@ -210,7 +88,6 @@ def build_the_future():
 ### [ SYSTEM STATUS: ONLINE ]
 
 **"Building tomorrow's solutions with today's code"**
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,25,30&height=100&section=footer" width="100%"/>
 

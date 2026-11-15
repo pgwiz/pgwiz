@@ -1,0 +1,48 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap');
+      * { box-sizing: border-box; }
+      text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .header-title { font-size: 15px; font-weight: 700; fill: #ff6b6b; letter-spacing: -0.01em; }
+      .header-sub { font-size: 11px; font-weight: 500; fill: #f0f0f0; opacity: 0.6; }
+      .stat-val { font-size: 20px; font-weight: 800; letter-spacing: -0.02em; }
+      .stat-lbl { font-size: 10px; font-weight: 500; fill: #f0f0f0; opacity: 0.65; text-transform: uppercase; letter-spacing: 0.05em; }
+      
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes subtlePulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.85; } }
+    .card-anim { 
+      animation: fadeIn 0.45s ease-out both; 
+    }
+    .d-1 { animation-delay: 0.05s; }
+    .d-2 { animation-delay: 0.1s; }
+    .d-3 { animation-delay: 0.15s; }
+    .d-4 { animation-delay: 0.2s; }
+  
+    </style>
+  
+  <rect x="1" y="1" width="493" height="193" rx="3" fill="none" stroke="#ff6b6b" stroke-width="0.5" />
+
+  <g transform="translate(24, 22)">
+    <g class="card-anim d-1">
+      <text class="header-title" x="0" y="12">Developer Wisdom</text>
+      <text class="header-sub" x="447" y="12" text-anchor="end">#inspiration</text>
+      <line x1="0" y1="22" x2="447" y2="22" stroke="#f0f0f0" stroke-opacity="0.1" stroke-width="1" />
+    </g>
+
+    <path d="M14 0c-4 0-7 3-7 7 0 2 1 4 3 5-1 2-3 4-5 5l2 2c4-2 7-6 7-9V0zm14 0c-4 0-7 3-7 7 0 2 1 4 3 5-1 2-3 4-5 5l2 2c4-2 7-6 7-9V0z" fill="#ff6b6b" opacity="0.15" transform="translate(10, 32) scale(1.4)" />
+
+    <g class="card-anim d-2">
+      <text x="247.5" y="76" font-size="14" font-style="italic" font-weight="500" fill="#f0f0f0" text-anchor="middle" line-height="1.5">
+        "<tspan x="247.5" dy="0">The best error message is the one that never</tspan><tspan x="247.5" dy="22">shows up.</tspan>"
+      </text>
+    </g>
+
+    <g class="card-anim d-3">
+      <text x="247.5" y="138" font-size="12" font-weight="600" fill="#ffd93d" text-anchor="middle">
+        — Thomas Fuchs
+      </text>
+    </g>
+  </g>
+</svg>
